@@ -1,1 +1,1 @@
-info about this project
+Data scraping usando playright. Em andamento.
